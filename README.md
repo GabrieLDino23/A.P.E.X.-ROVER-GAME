@@ -10,6 +10,10 @@
 ## **DEMO:**
 https://canva.link/a651jnxmtd6ltli
 
+## **GAME:**
+
+You can play the game here: https://scratch.mit.edu/projects/1440592626/
+
 ## **AI USE:**
 https://gemini.google.com/app?hl=pt-BR
 (searching information)
