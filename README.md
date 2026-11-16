@@ -5,7 +5,7 @@
   
   Our game is called Rover. The player controls a rover that can go to the Moon and to Mars, the player will face obstacles in these celestial bodies, in the Moon there are some asteroids and in Mars there are some dust devils. Throughout the gameplay the abandoned equipment can be found, when the player interacts with them, a menu will appear telling the story of the discarted equipment and its mission.
 
-  For programming the game we used [Scratch](https://scratch.mit.edu/) and for making the sprites we used [Piskel](https://www.piskelapp.com/) and [Paint.NET](https://paint.net/)
+  For programming the game we used [Scratch](https://scratch.mit.edu/) and for making the sprites we used [Piskel](https://www.piskelapp.com/) and [Paint.NET](https://paint.net/).
 
 ## **AI USE:**
 https://gemini.google.com/app?hl=pt-BR
