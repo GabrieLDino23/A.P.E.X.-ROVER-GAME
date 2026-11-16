@@ -7,6 +7,9 @@
 
   For programming the game we used [Scratch](https://scratch.mit.edu/) and for making the sprites we used [Piskel](https://www.piskelapp.com/) and [Paint.NET](https://paint.net/).
 
+## **DEMO:**
+https://canva.link/a651jnxmtd6ltli
+
 ## **AI USE:**
 https://gemini.google.com/app?hl=pt-BR
 (searching information)
